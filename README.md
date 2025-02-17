@@ -13,5 +13,5 @@ The following packages need to be installed before running the script:
 
 1. Pull out GDP, Capital Srock, and total workforce from the csv file
 2. Rearrange to find log(At)
-3. Compute A<sup>t</sup>
+3. Compute A<sub>t</sub>
 4. 
